@@ -1,6 +1,6 @@
 <?php 
 $title ="Index";
-include 'include/header.php'
+include "include/header.php"
 ?>
 
     <h1>Hail Fan - Praise me</h1>
