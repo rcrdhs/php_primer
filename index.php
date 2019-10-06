@@ -12,7 +12,7 @@ include 'include/header.php'
     echo "<br/>";
 
     $name = "Ricardo Higgins";
-    $age = 32;
+    $age = 35;
     echo $name;
 
     echo "<h1>My Name Is: ".$name."</h1>";
