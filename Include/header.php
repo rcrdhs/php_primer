@@ -21,7 +21,7 @@
 			<li class="nav-item"><a class="nav-link active" href="Functions.php">Simple Functions</a></li>
 			<li class="nav-item"><a class="nav-link active" href="WhileDowhileLoop.php">Simple Do While</a></li>
 			<li class="nav-item"><a class="nav-link active" href="IfStatement.php">Simple If Statement</a></li>
-			<li class="nav-item"><a class="nav-link active" href="SwitchStatement.php">Simple Switch Statement</a></li>
+			<li class="nav-item"><a class="nav-link active" href="SwitchStatement.php">Simple Switch Statements</a></li>
 			<li class="nav-item"><a class="nav-link active" href="Stringmanipulation.php">Manipulating a String</a></li>
 			
 		</ul> 
