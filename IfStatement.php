@@ -1,5 +1,5 @@
 <?php
-        $title = "If Statement";
+        $title = "If Statements";
         include "include/header.php"
 ?>
     <h1><?php echo $title?></h1>

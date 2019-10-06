@@ -1,5 +1,5 @@
 <?php 
-    $title = "Arrays and Printouts";
+    $title = "Arrays and Print-outs";
     include "include/header.php"
 ?>
     <h1><?php echo $title?></h1>

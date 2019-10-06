@@ -1,5 +1,5 @@
 <?php
-        $title ="For Loop";
+        $title ="For-Loop";
         include "include/header.php"
 ?>
     <h1><?php echo $title?></h1>

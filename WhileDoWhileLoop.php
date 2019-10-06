@@ -1,5 +1,5 @@
 <?php
-        $title = "While Loop";
+        $title = "While Loops";
         include "include/header.php"
 ?>
     <h1><?php echo $title?></h1>

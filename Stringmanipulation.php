@@ -1,5 +1,5 @@
 <?php
-        $title = "String Manipulation";
+        $title = "String-Manipulation";
         include "include/header.php"
 ?>
 
