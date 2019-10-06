@@ -23,7 +23,7 @@
                 echo "The sum of $num1 and $num2 is: $sum <br/>";
                 }
                 function changeNum (&$num){
-                    $num = $num +20;
+                    $num = $num +30;
                 }
                 function returnProduct($num1, $num2){
                     $prod = $num1 * $num2;   

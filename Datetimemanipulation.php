@@ -1,5 +1,5 @@
 <?php 
-    $title = "Today's Date and Time";
+    $title = "Date and Time";
     include "include/header.php"
 ?>
     <h1><?php echo $title?></h1>

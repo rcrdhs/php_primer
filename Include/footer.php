@@ -1,5 +1,5 @@
 <?php 
-    echo "<p>Copyright 1999-" .Date("Y") . " PHP Stuff </p>";
+    echo "<p>Copyright 1999-" . Date("Y") . " PHP Stuff </p>";
 ?>
     </div>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" 

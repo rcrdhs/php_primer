@@ -11,7 +11,7 @@
 	<div class="container">
 	<br/>
 	<br/>
-		<h2>Follow each link to the page example</h2>
+		<h2>Follow each link to the page</h2>
 		
 	 	<ul class="nav nav-tabs">
 			<li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
